@@ -1,2 +1,7 @@
-body { background: yellow; 
+body { 
+    background: #f0ebe3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
